@@ -19,11 +19,11 @@
   ```
 
 - ```sh
-  git clone https://github.com/Hackerscolonyofficial/HCO-7_Tools
+  git clone https://github.com/tapsnebanjara-dot/redzonetermux.gitb   
   ```
 - ```bash
   cd HCO-7_Tools
   ```
 - ```sh
   python HCO-7_Tools.py
-  ```
+  ```  
