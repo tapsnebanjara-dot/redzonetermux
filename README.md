@@ -19,7 +19,7 @@
   ```
 
 - ```sh
-  git clone https://github.com/tapsnebanjara-dot/redzonetermux.gitb   
+  git clone https://github.com/tapsnebanjara-dot/redzonetermux.git 
   ```
 - ```bash
   cd HCO-7_Tools
